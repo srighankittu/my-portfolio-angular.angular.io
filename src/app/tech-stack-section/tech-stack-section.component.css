@@ -1,0 +1,17 @@
+.personal-info-right{
+    display:flex;
+    flex-wrap:wrap;
+    width:50%;
+    position:relative;
+    gap:2rem;
+    justify-content: center;
+  }
+
+  .personal-info-skill{
+    width:50px;
+    transition:all 0.5s;
+  }
+  
+  .personal-info-skill:hover{
+    transform:scale(1.2);
+  }

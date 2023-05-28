@@ -1,0 +1,20 @@
+body{
+     display: block;
+     content: '';
+     height: 160px;
+}
+
+@media (min-width: 768px){
+    .news-input{
+        width: 50%;
+    }
+}
+
+
+  .text-justify-inter-word {
+    text-align: justify;
+    text-justify: inter-word;
+  }
+
+
+  
